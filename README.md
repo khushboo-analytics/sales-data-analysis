@@ -81,11 +81,10 @@ The following key performance indicators were calculated as part of the analysis
 - Identifying sales trends and product performance
 
 ---
- 📸 Power BI Dashboard Preview
+ ## 📸 Power BI Dashboard Preview
 
 ### Best & Worst Sellers Analysis
-![Best & Worst Sellers](images/Screenshot 2026-01-11 151601.png)
+![Best & Worst Sellers](images/best_worst_sellers_dashboard.png)
 
 ### Sales Trends & Distribution Analysis
 ![Sales Trends & Distribution](images/sales_trends_and_distribution.png)
- 
